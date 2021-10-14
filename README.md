@@ -11,4 +11,5 @@ The type of data best suited for K-Means clustering would be numerical data with
 
 ## Inertia and Elbow Method
 Inertia is the sum of squared distance of samples to their closest cluster center. The value of inertia decreases as the number of clusters increase- so we will need to manually pick K while considering the trade-off between the inertia value and the number of clusters. For that, we usually use the Elbow Method- and we choose the elbow point in the inertia graph
+
 ![download](https://user-images.githubusercontent.com/92322030/137150915-75b68099-4723-4f41-84fe-23dfade11ede.png)
