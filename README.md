@@ -1,6 +1,6 @@
 # transpo-data
 OICA(International organization of motor vehicle manufacturers) is the voice speaking 
-on automotive issues in world forums. OICA 2017 production statistics, being the basis of transpo-data project, eradicate the 
+on automotive issues in world forums. OICA 2017 production statistics, being the basis of transpo-data project, eradicates the 
 unwanted information and catalogues the useful data in an effortless way making the 
 humongous task of organizing inputs seem to furtile and serene.
 
