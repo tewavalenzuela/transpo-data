@@ -1,8 +1,7 @@
 # transpo-data
 OICA(International organization of motor vehicle manufacturers) is the voice speaking 
 on automotive issues in world forums. OICA 2017 production statistics, being the basis of transpo-data project, eradicates the 
-unwanted information and catalogues the useful data in an effortless way making the 
-humongous task of organizing inputs seem to furtile and serene.
+unwanted information and catalogues the useful data in an effortless way
 
 ## k Means Clustering Algorithm
 The type of data best suited for K-Means clustering would be numerical data with a relatively lower number of dimensions. A reasonably intuitive way of thinking about the problem is that there are really two things we ask of our clusters: homogeneity (things in the same cluster should all look like each other) and separation (things in different clusters should look different from each other).
